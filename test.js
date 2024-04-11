@@ -2,5 +2,5 @@ let test = 'hello'
 
 console.log(test);
 const func = () => {
-    console.log('12345');
+     console.log('12345');
 }
